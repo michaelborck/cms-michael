@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://gallant-mestorf-037c88.netlify.app/"
 languageCode = "en-us"
 title = "Michael Borck"
 theme = "dimension"
